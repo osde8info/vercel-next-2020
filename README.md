@@ -101,8 +101,3 @@ In this case we are going to use `@now/next` to build and deploy our Next.js app
 
 Visit our [documentation](https://zeit.co/docs/v2/deployments/configuration) for more information on the `now.json` configuration file.
 
-We are now ready to deploy the app.
-
-```
-now
-```
